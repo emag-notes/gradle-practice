@@ -27,6 +27,7 @@ target
 
 # Gradle
 .gradle
+build
 
 # JRebel
 rebel.xml
